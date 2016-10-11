@@ -1,0 +1,34 @@
+header {
+	background-color: #f0bd35;
+	margin-bottom: 30px;
+}
+
+header h1 {
+	margin-bottom: 0;
+}
+
+header p {
+	margin-top: 10px;
+}
+
+img {
+	width: 100%;
+}
+
+.card-box {
+	border: 1px solid #eee;
+	margin-bottom: 30px;
+}
+
+.name, .char-info {
+	/*display: block;*/
+	margin-left: 20px;
+}
+
+.name {
+	margin-bottom: 0;
+}
+
+.char-info {
+	margin-top: 10px;
+}
